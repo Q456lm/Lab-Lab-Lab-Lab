@@ -37,7 +37,15 @@ public class lab4 {
         guess = getInput("Who is the final boss of Final Fantast IV? ");
         System.out.println(check(guess,"Zeromus"));
         System.out.println("Score: "+score+"/4");
-
-
     }
 }
+
+
+//What was the most challenging part of translating from Python concepts to Java syntax?
+//Semicolons
+
+//When did you use AI assistance and what did it help you with?
+//None
+
+//Was there anything in Java that you liked better than in Python?
+//Not really.
